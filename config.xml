@@ -13,6 +13,7 @@
 	<preference name="fullscreen" value="true" />
 	<gap:plugin name="cordova-plugin-whitelist" source="npm" />
 	<gap:plugin name="cordova-plugin-inappbrowser" source="npm"  />
+	<allow-navigation href="http://roompangcj.com/*" />
 	<icon src="icon.png" />
 	<content src="index.html" />
 	<access origin="*" />
